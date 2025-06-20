@@ -1,0 +1,6 @@
+datasets
+pandas
+pymongo
+sentence-transformers
+transformers
+ipykernel
