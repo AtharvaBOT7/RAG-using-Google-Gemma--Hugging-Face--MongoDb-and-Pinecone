@@ -4,3 +4,6 @@ pymongo
 sentence-transformers
 transformers
 ipykernel
+huggingface-hub
+load_dotenv
+ipywidgets
